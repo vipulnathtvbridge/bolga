@@ -1,5 +1,0 @@
-customerAddressTypes:
-- id: BillingAndDelivery
-  name:
-    en-US: BillingAndDelivery
-    sv-SE: BillingAndDelivery
